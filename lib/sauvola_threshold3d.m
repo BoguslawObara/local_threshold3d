@@ -11,6 +11,11 @@ function imth = sauvola_threshold3d(im,n,k,R)
 %       in Differential Interference Contrast microscopy images, 
 %       BMC Bioinformatics, 14, 134, 2013
 %
+%       T. M. Scales, B. Obara, M. R. Holt, N. A. Hotchin, 
+%       F. Berditchevski, and M. Parsons, α3β1 integrins regulate CD151 
+%       complex assembly and membrane dynamics of carcinoma cells within 
+%       3D environments, Oncogene, 32, 34, 3965-3979, 2013
+%
 %   INPUT:
 %       im      - input image
 %       n       - window size, 10-20 
