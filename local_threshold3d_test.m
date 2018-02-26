@@ -16,7 +16,7 @@ h = fspecial3('log',n);
 im  = imfilter(im,h,'symmetric'); 
 
 %% local thresholding
-n = [15 15 2];
+n = [25 25 2];
 
 c = 0;
 imth1 = mean_threshold3d(im,n,c);
